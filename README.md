@@ -6,9 +6,4 @@ A powerful UDP flood tool for educational and testing purposes.
 
 - Customizable IP, Port, and Thread count
 - Multi-threaded UDP packet sending
-- Real-time packet sending statistics
-
-## Usage
-
-```bash
-python osman.py
+- Real-time packet sending statistic
